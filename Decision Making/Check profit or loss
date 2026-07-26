@@ -1,0 +1,8 @@
+cost=float(input())
+selling=float(input())
+if(cost<selling):
+    print("profit=",cost-selling)
+elif(selling<cost):
+    print("loss=",selling-cost)
+else:
+    print("no profit and loss")
