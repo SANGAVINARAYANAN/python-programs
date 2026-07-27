@@ -1,9 +1,0 @@
-units=int(input())
-n=float(input())
-if(units<=100):
-    bill=units*n
-elif(units<=200):
-    bill=units*n
-else:
-    bill=units*n
-print("bill=",bill)

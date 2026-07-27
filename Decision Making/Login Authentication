@@ -1,6 +1,0 @@
-username=input()
-password=input()
-if(username=="sangavi" and password=="123"):
-    print("login succesfully")
-else:
-    print("invalid username and password")
