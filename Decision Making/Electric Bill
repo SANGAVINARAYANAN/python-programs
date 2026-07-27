@@ -1,0 +1,9 @@
+units=int(input())
+rate=float(input())
+if(units<=100):
+    bill=units*rate
+elif(units<=200):
+    bill=units*rate
+else:
+    bill=units*rate
+print("bills=",bill)
