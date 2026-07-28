@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+print(a>b and a>c)   
+print(b>a or b>c)    
+print(not(c>a))
